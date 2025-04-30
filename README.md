@@ -1,5 +1,10 @@
 # Angular Core Workshop
 
+run on  
+node v12.22.12  
+npm 6.14.16
+
+
 We are going to use the Angular CLI and NRWL Extensions extensively in the workshop to streamline development and free us up to focus on core concepts.
 
 Follow the steps below to get started!
